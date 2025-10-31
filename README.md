@@ -14,4 +14,4 @@ Surface snow and underlying bulk snow samples were collected from 19 sites acros
 ## Unfiltered Data
 
 Complete unfiltered OTU, taxonomy, and metadata tables are available on Zenodo:  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17249709.svg)](https://doi.org/10.5281/zenodo.17249709)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17249708.svg)](https://doi.org/10.5281/zenodo.17249708)
